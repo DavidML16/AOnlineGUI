@@ -50,7 +50,7 @@ public final class Main extends JavaPlugin {
                 Main.log.sendMessage(Colors.translate("    &cCould not proceed update-checking"));
                 Main.log.sendMessage(Colors.translate(""));
             }
-        }, 20);
+        }, 10);
     }
 
     @Override

@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="AOnlineGUI:jar">
-    <output-path>$PROJECT_DIR$/../Usuarios/David/Escritorio/server/plugins/AOnlineGUI.jar</output-path>
+  <artifact type="jar" name="AOnlineGUI.jar">
+    <output-path>$PROJECT_DIR$/../Usuarios/David/Escritorio/server/plugins/</output-path>
     <root id="archive" name="AOnlineGUI.jar">
       <element id="module-output" name="AOnlineGUI" />
     </root>
