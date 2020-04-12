@@ -1,0 +1,8 @@
+name: AOnlineGUI
+version: ${project.version}
+main: me.davidml16.aonlinegui.Main
+authors: [DavidML16]
+commands:
+  online:
+    description: Use this to see all commands.
+    aliases: [ogui]
